@@ -1,6 +1,6 @@
 # Proyecto-Data-Science-2
 
-##Visualización de Datos y Conversión a Formato XLSX
+## Visualización de Datos y Conversión a Formato XLSX
 
 La visualización de datos es una herramienta fundamental en el análisis y la interpretación de conjuntos de datos. Al representar la información de manera gráfica, podemos identificar patrones, tendencias y relaciones que podrían no ser evidentes en una tabla de datos estática. En este sentido, Python ofrece diversas bibliotecas como ser Matplotlib, que permite crear una amplia gama de gráficos y visualizaciones interactivas.
 
